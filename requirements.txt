@@ -1,0 +1,6 @@
+datasets==1.16.1
+transformers==4.14.1
+#huggingface_hub==0.1
+#torchaudio
+librosa
+jiwer
